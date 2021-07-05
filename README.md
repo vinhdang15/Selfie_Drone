@@ -10,7 +10,8 @@ The mediapipe Auto recognize the first person it's see, so i make the Mode 2, wh
 
 Mode 2: Turn on facial recognize.
 ![Mode_2_75](https://user-images.githubusercontent.com/81819640/124458514-43223100-ddb7-11eb-8ab3-8edf438fbc6b.png)
-## Pose table
+## controlling table
+The Drone auto keep latitude and angle pointing to the controller
 Pose | Action
 ---- | ----
 Cover/uncover camera three times | Turn on mode 1
@@ -21,8 +22,7 @@ Pose: left arm close | Action: move left
 Pose: left arm open | Action: move right
 Pose: two hands up | Action: keep/release keep distance mode
 Pose: two hands cross | Action: take picture
-Pose: left hands forward | Action: Approach and land
-
+Pose: left hands forward | Action: Approach and land  
 ## Libraries and packages
 ### MediaPipe Pose:
 I looking for some kind of light Pose Estimation with hight accuracy and running without GPU. The mediapipe pose is satisfy the condition and it's can achieves real-time performance on mobile phones for the future upgrade.
