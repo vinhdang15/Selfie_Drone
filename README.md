@@ -21,10 +21,11 @@ Pose | Action
 ![picture_2](https://user-images.githubusercontent.com/81819640/125105115-4e06f980-e108-11eb-8602-423c49337098.jpg) | **Pose: Right arm close <br/> Action: Go forward**
 ![picture_3](https://user-images.githubusercontent.com/81819640/125105210-6d9e2200-e108-11eb-9ba6-06ff1650750c.jpg) | **Pose: Left arm open <br/> Action: Move right**
 ![picture_4](https://user-images.githubusercontent.com/81819640/125105298-84447900-e108-11eb-9bfc-ac229bfb2ae0.jpg) | **Pose: Left arm close <br/> Action: Move left**
-![picture_5](https://user-images.githubusercontent.com/81819640/125105656-e4d3b600-e108-11eb-9e07-afaeee797643.jpg) | **Pose: Two hands cross <br/> Action: Take picture**
-![picture_6](https://user-images.githubusercontent.com/81819640/125105736-fa48e000-e108-11eb-9aeb-0c34f50ddcf3.jpg) | **Pose: Two hands up <br/> Action: Keep/release keep** distance mode
-![picture_7](https://user-images.githubusercontent.com/81819640/125105747-00d75780-e109-11eb-85ca-d9bbc8ae75a1.jpg) | Pose: left hands forward <br/> Action: Approach and land 
+![picture_5](https://user-images.githubusercontent.com/81819640/125111327-f8364f80-e10f-11eb-84b3-90f63a9c9317.jpg) | **Pose: Two hands cross <br/> Action: Take picture**
+![picture_6](https://user-images.githubusercontent.com/81819640/125105736-fa48e000-e108-11eb-9aeb-0c34f50ddcf3.jpg) | **Pose: Two hands up <br/> Action: Keep/release keep distance mode**
+![picture_7](https://user-images.githubusercontent.com/81819640/125105747-00d75780-e109-11eb-85ca-d9bbc8ae75a1.jpg) | **Pose: left hands forward <br/> Action: Approach and landing** 
  
+
 ## Libraries and packages
 ### MediaPipe Pose:
 I looking for some kind of light Pose Estimation with hight accuracy and running without GPU. The mediapipe pose is satisfy the condition and it's can achieves real-time performance on mobile phones for the future upgrade.
